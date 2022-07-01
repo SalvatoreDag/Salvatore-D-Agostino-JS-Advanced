@@ -9,4 +9,4 @@ Steps for creating the project:
  3. Created buttons using Javascript
  4. Used js to contact the Open LIbrary api 
 
-Click here to try my project: https://salvatoredag.github.io/SalvatoreDag-Salvatore-D-Agostino-JS-Advanced/
+Click here to try my project: https://salvatoredag.github.io/Salvatore-D-Agostino-JS-Advanced/
